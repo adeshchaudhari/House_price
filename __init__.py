@@ -1,0 +1,1 @@
+print("Intializing usa price predcition")
